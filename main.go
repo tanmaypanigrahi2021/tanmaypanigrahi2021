@@ -1,1 +1,2 @@
-func (){for i<10; i++}
+package main
+func (){}
